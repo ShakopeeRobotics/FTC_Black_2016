@@ -60,20 +60,9 @@ public class Black_Tank extends OpMode {
         robot.rightMotor.setPower(right);
 
 
-        /*
-        Old Code -- Need to hang on to just in case ;)
-        double left;
-        double right;
 
-        // Run wheels in tank mode (note: The joystick goes negative when pushed forwards, so negate it)
-        left = -gamepad1.left_stick_y;
-        right = -gamepad1.right_stick_y;
-        robot.leftMotor.setPower(left);
-        robot.rightMotor.setPower(right);
-        robot.lleftMotor.setPower(left);
-        robot.rrightMotor.setPower(right);*/
 
-    /*
+     /*
      * Code to run ONCE after the driver hits STOP
      */
     }
