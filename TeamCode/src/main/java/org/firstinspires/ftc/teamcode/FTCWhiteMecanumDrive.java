@@ -4,6 +4,7 @@ package org.firstinspires.ftc.teamcode;
  * Created by natenckelvey on 10/14/16.
  */
 
+import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
