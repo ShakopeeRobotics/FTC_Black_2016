@@ -23,6 +23,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
  */
 
 @TeleOp(name="FTC White MechOp", group="Pushbot")
+@Disabled
 public class FTCWhiteMecanumDrive extends OpMode {
 
     /* Declare OpMode members. */
