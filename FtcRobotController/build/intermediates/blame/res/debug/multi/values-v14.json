@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/229108/Desktop/FTC Black 2016/FtcRobotController/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+        "outputFile": "/Users/226486/Desktop/ftc_app-master 3 copy/FTC_Black_2016/FtcRobotController/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "/Users/229108/Desktop/FTC Black 2016/FtcRobotController/src/main/res/values-v14/styles.xml",
+                    "file": "/Users/226486/Desktop/ftc_app-master 3 copy/FTC_Black_2016/FtcRobotController/src/main/res/values-v14/styles.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
